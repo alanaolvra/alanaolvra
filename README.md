@@ -1,16 +1,23 @@
-### Hi there 👋
+# Oie, tudo bem?
+### Me chamo Alana Oliveira 
+### Sou um desenvolvedora front-end
 
-<!--
-**alanaolvra/alanaolvra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<img heigth= "150em" src = "https://github-readme-stats.vercel.app/api?username=alanaolvra&theme=radical&show_icons=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Contato
+
+<a href = "https://www.linkedin.com/in/alana-oliveira-809082210/">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aling= "center" height = "50" width = "60"/>
+
+</a>
+
+<a href = "https://www.instagram.com/alanaolvra/" >
+
+<img src=" https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-128.svg" height = "50" width = "60"/>
+
+</a>
