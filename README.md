@@ -1,6 +1,5 @@
 # Oie, tudo bem?
-### Me chamo Alana Oliveira 
-### Sou uma desenvolvedora front-end
+### Me chamo Alana Oliveira
 
 <div>
 
