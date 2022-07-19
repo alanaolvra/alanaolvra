@@ -1,6 +1,5 @@
-# Seja Bem-Vindo <3
+# Olá, Seja Bem-Vindo :heart:
 <div>
-
 <img heigth= "150em" src = "https://github-readme-stats.vercel.app/api?username=alanaolvra&theme=radical&show_icons=true"/>
 
 </div>
