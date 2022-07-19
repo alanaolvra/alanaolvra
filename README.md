@@ -1,4 +1,4 @@
-# Oie, tudo bem? Seja Bem-Vindo <3
+#Seja Bem-Vindo <3
 <div>
 
 <img heigth= "150em" src = "https://github-readme-stats.vercel.app/api?username=alanaolvra&theme=radical&show_icons=true"/>
